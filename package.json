@@ -16,6 +16,6 @@
     "serve-favicon": "~2.4.5",
     "mongodb": "~3.0.1 ",
     "asserts": "~4.0.2",
-    "mongoose":"5.0.0-rc2"
+    "mongoose": "5.0.0-rc2"
   }
 }
